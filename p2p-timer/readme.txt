@@ -1,0 +1,4 @@
+p2p-timer也是服务的消费者
+定时去消费服务
+使用了Spring提供的task定时器
+使用Spring和Spring Task
